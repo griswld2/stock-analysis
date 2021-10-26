@@ -24,4 +24,5 @@ The original script was useful in that it allowed us to go over a handful of sto
 
 ![VBA_Challenge_2017.PNG](https://github.com/griswld2/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 
+
 ![VBA_Challenge_2018.PNG](https://github.com/griswld2/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
